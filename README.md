@@ -1,3 +1,6 @@
+
+![images-11](https://user-images.githubusercontent.com/108365002/206346223-56dac6d9-585a-49bc-87ae-5ba8dfe83c55.jpeg)
+
 # Predicting-Longer-Term-Volatility
 Working Paper
 
